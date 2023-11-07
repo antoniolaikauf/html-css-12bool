@@ -260,9 +260,13 @@
 
 @media all and (min-width:768px) {
 
+    /* caratteristiche container */
+
     .container-md{
         max-width: 740px;
     }
+
+    /* caratteristiche colonne dentro row */
 
     .col-md-1{
         flex-basis: calc((100% / 12) * 1);
@@ -377,11 +381,17 @@
 
 /* caratteristiche shermo maggiore di 992px */
 
-.container-ld{
-    max-width: 980px;
-}
 
 @media all and (min-width:768px) {
+
+    /* caratteristiche container  */
+
+    .container-ld{
+        max-width: 980px;
+    }
+
+    /* caratteristiche col dentro row */
+
     .col-ld-1{
         flex-basis: calc((100% / 12) * 1);
         max-width:calc((100% / 12) * 1) ;
