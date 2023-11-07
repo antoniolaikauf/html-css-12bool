@@ -37,3 +37,26 @@ section{
     border: 1px solid white;
     padding: 20px;
 }
+
+/* bonus */
+/* caratteristiche sezione nested */
+
+.bgnest-senza-testo{
+    background-color: green;
+    border: 1px solid blue;
+    padding: 20px 0;
+}
+
+/* caratteristiche  div dentro aliggnment  */
+
+.grande{
+    padding: 30px;
+    background-color: blue;
+    border: 1px solid white;
+}
+
+.piccolo{
+    padding: 15px;
+    background-color: blue;
+    border: 1px solid white;
+}

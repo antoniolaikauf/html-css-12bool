@@ -140,6 +140,41 @@
    margin-left: calc((100% / 12) * 12);
 }
 
+/* caratteristiche js-content */
+
+.jc-star{
+    justify-content: start;
+}
+
+.jc-center{
+    justify-content: center;
+}
+
+.jc-end{
+    justify-content: end;
+}
+
+.jc-around{
+    justify-content: space-around;
+}
+
+.jc-between{
+    justify-content: space-between;
+}
+
+/* caratteristiche align items */
+
+.al-start{
+    align-items: start;
+}
+
+.al-middle{
+    align-items: center;
+}
+
+.al-end{
+    align-items: end;
+}
 
 
 /* caratteristiche schermo piu grandi di 575px */
@@ -253,6 +288,42 @@
     
     .col-offset-sm-12{
        margin-left: calc((100% / 12) * 12);
+    }
+
+    /* caratteristiche js-content */
+
+    .jc-sm-star{
+        justify-content: start;
+    }
+
+    .jc-sm-center{
+        justify-content: center;
+    }
+
+    .jc-sm-end{
+        justify-content: end;
+    }
+
+    .jc-sm-around{
+        justify-content: space-around;
+    }
+    
+    .jc-sm-between{
+        justify-content: space-between;
+    }
+
+    /* caratteristiche align items */
+
+    .al-sm-start{
+        align-items: start;
+    }
+
+    .al-sm-middle{
+        align-items: center;
+    }
+
+    .al-sm-end{
+        align-items: end;
     }
 }
 
@@ -377,6 +448,41 @@
     .col-offset-md-12{
        margin-left: calc((100% / 12) * 12);
     }
+    /* caratteristiche js-content */
+
+    .jc-md-star{
+        justify-content: start;
+    }
+
+    .jc-md-center{
+        justify-content: center;
+    }
+
+    .jc-md-end{
+        justify-content: end;
+    }
+
+    .jc-md-around{
+        justify-content: space-around;
+    }
+    
+    .jc-md-between{
+        justify-content: space-between;
+    }
+
+    /* caratteristiche align items */
+
+    .al-md-start{
+        align-items: start;
+    }
+
+    .al-md-middle{
+        align-items: center;
+    }
+
+    .al-md-end{
+        align-items: end;
+    }
 }
 
 /* caratteristiche shermo maggiore di 992px */
@@ -500,5 +606,41 @@
     
     .col-offset-ld-12{
        margin-left: calc((100% / 12) * 12);
+    }
+
+    /* caratteristiche js-content */
+
+    .jc-ld-star{
+        justify-content: start;
+    }
+
+    .jc-ld-center{
+        justify-content: center;
+    }
+
+    .jc-ld-end{
+        justify-content: end;
+    }
+
+    .jc-md-around{
+        justify-content: space-around;
+    }
+    
+    .jc-md-between{
+        justify-content: space-between;
+    }
+
+    /* caratteristiche align items */
+
+    .al-ld-start{
+        align-items: start;
+    }
+
+    .al-ld-middle{
+        align-items: center;
+    }
+
+    .al-ld-end{
+        align-items: end;
     }
 }
