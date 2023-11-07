@@ -12,6 +12,12 @@ section{
     margin-bottom: 20px;
 }
 
+/* colore testo */
+
+.colore-testo{
+    color: white;
+}
+
 /* caratteristiche bg-colorato */
 
 .bg-colorato{
