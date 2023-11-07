@@ -60,3 +60,8 @@ section{
     background-color: blue;
     border: 1px solid white;
 }
+
+.bg{
+    background-color: blue;
+    padding: 10px ;
+}
